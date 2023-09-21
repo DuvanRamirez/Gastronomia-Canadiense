@@ -1,0 +1,83 @@
+*{
+  box-sizing: border-box;
+}
+.body{
+  background: red;
+}
+h1, figure{
+  text-size-adjust:50px ;
+  margin:auto;
+  text-align: center;
+  color: white;
+}
+
+div.header {
+    width:100%;
+    height: 4%;
+    float: above;
+    background: red;
+    margin:auto;
+  }
+div.Menu {
+    width: 20%;
+    height:92%;
+    float: left;
+    background: red;
+    margin: auto;
+  }
+div.main {
+    width: 80%;
+    height: 92.5%;
+    float: right;
+    background-color: white;
+    border: solid black;
+    margin: auto ;
+  }
+  div.footer {
+    width: 100%;
+    height: 1%;
+    background: red;
+    margin:auto;
+    float: left;
+  }
+
+header, article{
+    color: black;
+    padding: 30px;
+    text-align: center;
+  }
+  aside{
+    color: white;
+    padding: 30px;
+  }
+a.menus{
+    text-decoration: none;
+    color:white;
+  }
+a.menus:hover{
+    color: black;
+  }
+
+a{
+    text-decoration: none;
+    color:red;
+  }
+a:hover{
+    color: black;
+  }
+  footer{
+    text-align: center;
+    color: white;
+  }
+  div.r1{
+    background: white;
+    color: black;
+    border: solid black;
+    margin:5px 2px;
+    text-align: center;
+  }
+  h1.receta1,h1.receta2,h1.receta3,h1.receta4,h1.receta5,h1.receta6,h1.receta7,h1.receta8,h1.receta9,h1.receta10{
+    color: black;
+    text-align: center;
+  }
+ 
